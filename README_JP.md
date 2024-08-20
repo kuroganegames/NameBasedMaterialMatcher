@@ -1,6 +1,10 @@
-# Name-Based Material Matcher（名前ベースのマテリアルマッチャー）
+# Name-Based Material Matcher（名前ベースのマテリアル差し替えツール）
 
 Name-Based Material Matcherは、Skinned Mesh Rendererのマテリアルを名前に基づいてマッチングし置換するUnityエディタツールです。このツールは、VRMアセット管理や他のマテリアル同期が必要なシナリオで特に有用です。
+
+Name-Based Material Matcher is a Unity editor tool designed to simplify the process of matching and replacing materials in Skinned Mesh Renderers based on material names. This tool is particularly useful for VRM asset management and other scenarios where material synchronization is needed.
+
+[English README is here](README.md)
 
 ## 特徴
 
@@ -12,7 +16,7 @@ Name-Based Material Matcherは、Skinned Mesh Rendererのマテリアルを名�
 
 ## インストール方法
 
-1. [リリース](https://github.com/yourusername/name-based-material-matcher/releases)ページにアクセスします。
+1. [リリース]([https://github.com/yourusername/name-based-material-matcher/releases](https://github.com/kuroganegames/NameBasedMaterialMatcher/releases))ページにアクセスします。
 2. 最新の`Name-Based-Material-Matcher.unitypackage`ファイルをダウンロードします。
 3. Unityプロジェクトを開きます。
 4. Assets > Import Package > Custom Packageに移動します。
