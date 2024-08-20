@@ -12,7 +12,7 @@ Name-Based Material Matcher is a Unity editor tool designed to simplify the proc
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/yourusername/name-based-material-matcher/releases) page.
+1. Go to the [Releases]([https://github.com/yourusername/name-based-material-matcher/releases](https://github.com/kuroganegames/NameBasedMaterialMatcher/releases)) page.
 2. Download the latest `Name-Based-Material-Matcher.unitypackage` file.
 3. Open your Unity project.
 4. Go to Assets > Import Package > Custom Package.
