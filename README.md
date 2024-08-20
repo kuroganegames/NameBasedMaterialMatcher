@@ -2,6 +2,10 @@
 
 Name-Based Material Matcher is a Unity editor tool designed to simplify the process of matching and replacing materials in Skinned Mesh Renderers based on material names. This tool is particularly useful for VRM asset management and other scenarios where material synchronization is needed.
 
+Name-Based Material Matcherは、Skinned Mesh Rendererのマテリアルを名前に基づいてマッチングし置換するUnityエディタツールです。このツールは、VRMアセット管理や他のマテリアル同期が必要なシナリオで特に有用です。
+
+[日本語のREADMEはこちら](README_JP.md)
+
 ## Features
 
 - Easy-to-use Unity editor window
